@@ -5,3 +5,14 @@
     "decrement": []
   }
 }
+
+{
+  "results": [],
+  "evm_molecule_endpoint": "http://evm.molecule.sh",
+  "publicFunctions": {
+    "sign": [
+      "caller",
+      "signature"
+    ]
+  }
+}
